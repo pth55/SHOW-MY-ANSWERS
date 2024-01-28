@@ -13,7 +13,7 @@ Notes:
   <h4>Steps</h4>
   <ul>
     <li>Open Exam Window and Press Ctrl + U (if Mac Command+U)</li>
-    <li>A new Window will be opened and you can exam page source code</li>
+    <li>A new Window will be opened and you can see exam page source code</li>
     <li>go very bottom of that page where you'll find a script tag conatins a js variable called 'data' i.e let data = {...}</li>
     <li>copy that line (contents inside that scipt tag).</li>
     <li>goto [this](https://www.convertsimple.com/convert-javascript-to-json/) website.</li>
