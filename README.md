@@ -1,8 +1,8 @@
-# SHOW-MY-ANSWERS
+# SHOW-MY-ANSWERS!
 
 **This repository contains a Python script that automatically fetches answers for CISCO NetAcad Courses exams.**
 
-## How to Use
+## How to Use?
 
 ### Prerequisites
 - Install necessary modules using pip.
@@ -37,11 +37,11 @@
 11. Run the Python script.
     ![Step 10](https://github.com/PavanTheHacker55/SHOW-MY-ANSWERS/assets/71021764/74d8f9ec-06d0-4cf8-b53b-3ba737b705b0)
 
-## Note
+## Note ~
 
 - Sometimes, this script fails to provide correct answers/options. If you notice this, restart the exam and repeat the above steps.
 - This script works fine for multiple choices, but be careful while selecting options!
 
-## Disclaimer
+## Disclaimer!
 
 **Use this script/program for educational purposes only. I am not responsible for any misuse of this tool. By utilizing this script, you acknowledge that any misuse or unethical use of the provided software is strictly your own responsibility. Always adhere to ethical standards and respect the rules and guidelines set by educational institutions.**
