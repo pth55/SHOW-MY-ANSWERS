@@ -51,7 +51,7 @@ if "questions" in data and len(data["questions"]) > 0:
 
             print(f"Question {quest_no} Answer: {first_option_text}")
         elif question_data.get("type") == "Multiple Choice":
-            if "(Select two answers.)" in question_text:
+            if "(Select two answers.)" or "Choose all correct ansers." in question_text:
                 # Print two options
                 print(f"Question {quest_no} Answer: [This is Multiple Choice] ==> ",end="")
                 count = 1
