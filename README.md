@@ -1,35 +1,43 @@
-# SHOW-ANSWERS
+# SHOW-MY-ANSWERS
 
-**This repository contains a python script that will automatically fetch answers for any CISCO NetAcad Courses exams**
-<br/>
-<h2>How to Use!</h2>
-<h4>Before that</h4>
-<pre>
-Notes:
-- install necessary modules using pip
-- website to convert JS Object to JSON: https://www.convertsimple.com/convert-javascript-to-json/
-</pre>
-<p>
-  <h4>Steps</h4>
-  <ul>
-    <li>Open Exam Window and Press Ctrl + U (if Mac Command+U)</li>
-    ![1](https://github.com/PavanTheHacker55/SHOW-ANSWERS/assets/71021764/2674b2ec-2c29-4fc5-a1e5-6c23484ca2e4)
-    <li>A new Window will be opened and you can see exam page source code</li>
-    <li>go very bottom of that page where you'll find a script tag conatins a js variable called 'data' i.e let data = {...}</li>
-    ![2](https://github.com/PavanTheHacker55/SHOW-ANSWERS/assets/71021764/b0e12a5b-dca1-4ff2-908a-1f0f210417d1)
-    <li>copy that line (contents inside that scipt tag).</li>
-    <li>goto ![this](https://www.convertsimple.com/convert-javascript-to-json/) website and paste the JS code that you copied.</li>
-    <li>it shows code is invalid - remove last of that code i.e Object.Freeze(data);</li>
-    ![3](https://github.com/PavanTheHacker55/SHOW-ANSWERS/assets/71021764/500f98ad-4af3-48fd-ae3d-ea253e6efeb0)
-    <li>you'll get respective JSON Object, copy that code.</li>
-    ![4](https://github.com/PavanTheHacker55/SHOW-ANSWERS/assets/71021764/8996a1a3-8d15-447f-80f2-cb81d1aac1ae)
-    <li>Download the Python script provided in this this repo.</li>
-    <li>create a new folder and put this script in a separate folder, and create a new file called 'data.json' and paste the JSON code.</li>
-    ![5](https://github.com/PavanTheHacker55/SHOW-ANSWERS/assets/71021764/599f66aa-941c-4e11-9317-15b01218bae8)
-    ![6](https://github.com/PavanTheHacker55/SHOW-ANSWERS/assets/71021764/7edef3d7-6fb3-460b-bc55-59ca55803fa9)
-    <li>that's all, run the python script.</li>
-    ![7](https://github.com/PavanTheHacker55/SHOW-ANSWERS/assets/71021764/40660acf-03f7-46dc-9389-24a1565025aa)
-  </ul>
-</p>
-# Disclaimer
-<h3>Use this Script/Program for Educational Purposes, i'm not at all responsible for any missuse of this thing...</h3><br>
+**This repository contains a Python script that automatically fetches answers for CISCO NetAcad Courses exams.**
+
+## How to Use
+
+### Prerequisites
+- Install necessary modules using pip.
+- Website to convert JS Object to JSON: [ConvertSimple](https://www.convertsimple.com/convert-javascript-to-json/)
+
+### Steps
+1. Open the Exam Window and press Ctrl + U (for Mac, use Command+U).
+   <img src="https://github.com/PavanTheHacker55/SHOW-ANSWERS/assets/71021764/2674b2ec-2c29-4fc5-a1e5-6c23484ca2e4" width="500" height="300"><br>
+
+2. A new window will open, displaying the exam page source code.
+
+3. Scroll to the bottom of the page, where you'll find a script tag containing a JavaScript variable called 'data' (e.g., `let data = {...}`).
+   <img src="https://github.com/PavanTheHacker55/SHOW-ANSWERS/assets/71021764/b0e12a5b-dca1-4ff2-908a-1f0f210417d1" width="500" height="300"><br>
+
+4. Copy the contents inside that script tag.
+
+5. Open [ConvertSimple](https://www.convertsimple.com/convert-javascript-to-json/) and paste the copied JavaScript code.
+
+6. It may show that the code is invalid; remove the last line of that code, i.e., `Object.freeze(data);`.
+
+7. You'll get the respective JSON Object; copy that code.
+   <img src="https://github.com/PavanTheHacker55/SHOW-ANSWERS/assets/71021764/31cfbbce-ece0-4a10-a4d6-6c0f8a5211b9" width="500" height="300"><br>
+
+8. Download the Python script provided in this repository.
+
+9. Create a new folder, put the script in a separate folder, and create a new file called 'data.json.' Paste the JSON code into this file.
+   <img src="https://github.com/PavanTheHacker55/SHOW-ANSWERS/assets/71021764/599f66aa-941c-4e11-9317-15b01218bae8" width="500" height="300"><br>
+   <img src="https://github.com/PavanTheHacker55/SHOW-ANSWERS/assets/71021764/7edef3d7-6fb3-460b-bc55-59ca55803fa9" width="500" height="300">
+
+10. Run the Python script.
+    <img src="https://github.com/PavanTheHacker55/SHOW-ANSWERS/assets/71021764/74d8f9ec-06d0-4cf8-b53b-3ba737b705b0" width="500" height="300"><br>
+
+## Note
+- Sometimes, this script fails to provide correct answers/options. If you notice this, restart the exam and repeat the above steps.
+- This script works fine for multiple choices, but be careful while selecting options!
+
+## Disclaimer
+Use this script/program for educational purposes only. I am not responsible for any misuse of this tool.
