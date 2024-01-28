@@ -23,17 +23,18 @@
 5. Open [ConvertSimple](https://www.convertsimple.com/convert-javascript-to-json/) and paste the copied JavaScript code.
 
 6. It may show that the code is invalid; remove the last line of that code, i.e., `Object.freeze(data);`.
+   ![3](https://github.com/PavanTheHacker55/SHOW-MY-ANSWERS/assets/71021764/78d1c429-d00f-42ef-afcb-1d73705820f0)
 
-7. You'll get the respective JSON Object; copy that code.
+8. You'll get the respective JSON Object; copy that code.
    ![Step 7](https://github.com/PavanTheHacker55/SHOW-MY-ANSWERS/assets/71021764/31cfbbce-ece0-4a10-a4d6-6c0f8a5211b9)
 
-8. Download the Python Script provided in this repository.
+9. Download the Python Script provided in this repository.
 
-9. Create a new folder, put the script in a separate folder, and create a new file called 'data.json.' Paste the JSON code into this file.
+10. Create a new folder, put the script in a separate folder, and create a new file called 'data.json.' Paste the JSON code into this file.
    ![Step 9](https://github.com/PavanTheHacker55/SHOW-MY-ANSWERS/assets/71021764/599f66aa-941c-4e11-9317-15b01218bae8)
    ![Step 9](https://github.com/PavanTheHacker55/SHOW-MY-ANSWERS/assets/71021764/7edef3d7-6fb3-460b-bc55-59ca55803fa9)
 
-10. Run the Python script.
+11. Run the Python script.
     ![Step 10](https://github.com/PavanTheHacker55/SHOW-MY-ANSWERS/assets/71021764/74d8f9ec-06d0-4cf8-b53b-3ba737b705b0)
 
 ## Note
