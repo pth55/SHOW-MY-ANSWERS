@@ -15,7 +15,7 @@
 
 2. A new window will open, displaying the exam page source code.
 
-3. Scroll to the bottom of the page, where you'll find a script tag containing a JavaScript variable called 'data' (e.g., `let data = {...}`).<br>
+3. Scroll to the bottom of the page, where you'll find a script tag containing a JavaScript variable called 'data' (e.g., `let data = {...}`).<br><br>
    ![Step 3](https://github.com/PavanTheHacker55/SHOW-MY-ANSWERS/assets/71021764/b0e12a5b-dca1-4ff2-908a-1f0f210417d1)
 
 4. Copy the contents inside that script tag.
