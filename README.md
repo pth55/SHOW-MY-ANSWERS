@@ -10,7 +10,7 @@ Notes:
 - website to convert JS Object to JSON: https://www.convertsimple.com/convert-javascript-to-json/
 </pre>
 <p align="center">
-[![Watch the video](https://i.stack.imgur.com/Vp2cE.png)](https://youtu.be/vt5fpE0bzSY)
+[![asciicast](https://asciinema.org/a/113463.png)](https://asciinema.org/a/113463)
 </p>
 
 # Disclaimer
