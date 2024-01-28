@@ -1,6 +1,6 @@
 # SHOW-MY-ANSWERS!
 
-**This repository contains a Python script that automatically fetches answers for CISCO NetAcad Courses exams.**
+**This repository contains a Python script that automatically fetches answers for any CISCO NetAcad Course exams.**
 
 ## How to Use?
 
