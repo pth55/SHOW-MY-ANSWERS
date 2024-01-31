@@ -5,7 +5,7 @@
 ## How to Use?
 
 ### Prerequisites
-- Install necessary modules using pip.
+- Install bs4 module using pip. Command: `pip install bs4` or `pip3 install bs4`
 - Website to convert JS Object to JSON: [ConvertSimple](https://www.convertsimple.com/convert-javascript-to-json/)
 
 ### Steps
