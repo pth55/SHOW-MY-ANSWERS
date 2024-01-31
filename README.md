@@ -36,7 +36,7 @@
 
 11. Run the Python script, That's all.
     ![Step 10](https://github.com/PavanTheHacker55/SHOW-MY-ANSWERS/assets/71021764/74d8f9ec-06d0-4cf8-b53b-3ba737b705b0)
-12. You have repeat the above steps for all exams.
+12. You need to repeat the above steps for all exams.
 ## Note ~
 
 - Sometimes, this script fails to provide correct answers/options. If you notice this, restart the exam and repeat the above steps.
