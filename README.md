@@ -28,7 +28,7 @@
 8. You'll get the respective JSON Object; copy that code.
    ![Step 7](https://github.com/PavanTheHacker55/SHOW-MY-ANSWERS/assets/71021764/31cfbbce-ece0-4a10-a4d6-6c0f8a5211b9)
 
-9. Download the Python Script provided in this repository.
+9. Download the ![Python Script](https://github.com/PavanTheHacker55/SHOW-MY-ANSWERS/blob/main/main.py) provided in this repository.
 
 10. Create a new folder, put the script in that folder, and create a new file called 'data.json.' Paste the JSON code into this file (Simply, keep both files in same folder).<br>
    ![Step 9](https://github.com/PavanTheHacker55/SHOW-MY-ANSWERS/assets/71021764/599f66aa-941c-4e11-9317-15b01218bae8)<br>
