@@ -10,7 +10,7 @@
 
 ### Steps
 
-1. Open the Exam Window and press Ctrl + U (for Mac, use Command+U).
+1. Open the Exam Window and press Ctrl + U (for Mac, use Option+Command+U).
    ![Step 1](https://github.com/PavanTheHacker55/SHOW-MY-ANSWERS/assets/71021764/2674b2ec-2c29-4fc5-a1e5-6c23484ca2e4)
 
 2. A new window will open, displaying the exam page source code.
