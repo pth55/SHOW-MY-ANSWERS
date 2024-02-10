@@ -1,6 +1,6 @@
 # SHOW-MY-ANSWERS!
 
-**This repository contains a Python script that automatically fetches answers for any CISCO NetAcad Course exams.**
+**This tool is a Python script meticulously crafted to simplify the often tedious task of gathering answers for CISCO NetAcad Course exams. By following a series of straightforward steps, users can effortlessly extract exam data from the source code and swiftly obtain accurate answers using the script. This automation significantly reduces the time and effort required for exam preparation, allowing users to focus more on understanding concepts rather than searching for answers. It serves as a valuable resource for learners seeking to optimize their study process and achieve better academic outcomes in CISCO NetAcad courses.**
 
 ## How to Use?
 
