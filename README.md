@@ -6,6 +6,7 @@
 
 ### Prerequisites
 - Install bs4 module using pip. Command: `pip install bs4` or `pip3 install bs4`
+- **Note:** if pip or pip3 does't work try `python -m pip install package_name`
 - Website to convert JS Object to JSON: [ConvertSimple](https://www.convertsimple.com/convert-javascript-to-json/)
 
 ### Steps
@@ -25,22 +26,20 @@
 6. It may show that the code is invalid; remove the last line of that code, i.e., `Object.freeze(data);`.
    ![3](https://github.com/PavanTheHacker55/SHOW-MY-ANSWERS/assets/71021764/78d1c429-d00f-42ef-afcb-1d73705820f0)
 
-8. You'll get the respective JSON Object; copy that code.
-   ![Step 7](https://github.com/PavanTheHacker55/SHOW-MY-ANSWERS/assets/71021764/31cfbbce-ece0-4a10-a4d6-6c0f8a5211b9)
+8. You'll get the respective JSON Object; copy that code and Create a new folder then create a new file in that folder called 'data.json' and Paste the JSON code into this file
+   ![Step 7](https://github.com/PavanTheHacker55/SHOW-MY-ANSWERS/assets/71021764/31cfbbce-ece0-4a10-a4d6-6c0f8a5211b9)<br>
+   ![Step 9](https://github.com/PavanTheHacker55/SHOW-MY-ANSWERS/assets/71021764/599f66aa-941c-4e11-9317-15b01218bae8)
 
-9. Download the [Python Script](https://github.com/PavanTheHacker55/SHOW-MY-ANSWERS/blob/main/main.py) provided in this repository.
-
-10. Create a new folder, put the script in that folder, and create a new file called 'data.json.' Paste the JSON code into this file (Simply, keep both files in same folder).<br>
-   ![Step 9](https://github.com/PavanTheHacker55/SHOW-MY-ANSWERS/assets/71021764/599f66aa-941c-4e11-9317-15b01218bae8)<br>
+10. Now, Download the [Python Script](https://github.com/PavanTheHacker55/SHOW-MY-ANSWERS/blob/main/main.py) provided in this repository. put the script in same folder where you have already cteated `data.json`.
    ![Step 9](https://github.com/PavanTheHacker55/SHOW-MY-ANSWERS/assets/71021764/7edef3d7-6fb3-460b-bc55-59ca55803fa9)
 
-11. Run the Python script, That's all.
+12. Run the Python script, That's all. [** MAKE SURE TO KEEP BOTH FILES IN SAME FOLDER AND MAKE SURE THAT YOU HAVE INSTALLED NECESSARY PYTHON PACKAGES MENTIONED ABOVE.]
     ![Step 10](https://github.com/PavanTheHacker55/SHOW-MY-ANSWERS/assets/71021764/74d8f9ec-06d0-4cf8-b53b-3ba737b705b0)
-12. You need to repeat the above steps for all exams.
+13. You need to repeat the above steps for all exams.
 ## Note ~
 
 - Sometimes, this script fails to provide correct answers/options. If you notice this, restart the exam and repeat the above steps.
-- This script works fine for multiple choices, but be careful while selecting options!
+- This script works fine for multiple choices(where you have to choose <=2 options), but please exercise caution when selecting options for questions with more than 2 choices!
 
 ## Disclaimer!
 
