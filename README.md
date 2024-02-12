@@ -29,7 +29,7 @@
 
 8. Now Download the Tool/Software from [HERE!](https://github.com/pth55/SHOW-MY-ANSWERS/releases/download/v2/show_my_answers.exe)
 
-9. Now just Double click that executable to open the actual software.<br><br>
+9. Now just Double click that executable to open the actual software.<br>
 
 10. Here you need to do 3 things:
     - Paste the JSON code that you have copied in step 7 into that textarea.
