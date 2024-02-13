@@ -27,18 +27,19 @@
 7. You'll get the respective JSON Object, Copy that code.<br><br>
    ![Step 7](https://github.com/PavanTheHacker55/SHOW-MY-ANSWERS/assets/71021764/31cfbbce-ece0-4a10-a4d6-6c0f8a5211b9)
 
-8. <b>Now Download the Tool/Software from [HERE!](https://github.com/pth55/SHOW-MY-ANSWERS/releases/download/v2/show_my_answers.zip) and just Double click that executable to open the actual software.<br></b>
+8. <b>Now Download the Tool/Software from [HERE!](https://github.com/pth55/SHOW-MY-ANSWERS/releases/download/v2/show_my_answers.zip) and just Double click that executable to open the actual software.<br>
+      NOTE: PLEASE DISABLE YOUR ANTIVIRUS BEFORE DOWNLOADING THIS FILE</b>
    - or You can also Download it from here: https://github.com/pth55/SHOW-MY-ANSWERS/releases/tag/v2
    ![3](https://github.com/pth55/SHOW-MY-ANSWERS/assets/71021764/85f1e0d4-7804-4810-993e-b2c5c8a6a55c)
 
-9. Here you need to do 3 things:
+10. Here you need to do 3 things:
     - Paste the JSON code that you have copied in step 7 into that textarea.
     - Click on "SAVE JSON Data" button.
     - Click on "GET ANSWERS" to get the answers window.<br><br>
     ![Step 9](https://github.com/pth55/SHOW-MY-ANSWERS/assets/71021764/e5616e06-cb11-4ec7-bbc0-496268add151)
-10. Now the answers window will be opened separately.<br><br>
+11. Now the answers window will be opened separately.<br><br>
     ![Step 11](https://github.com/pth55/SHOW-MY-ANSWERS/assets/71021764/e73fdce0-a5e4-4de4-afd7-1b58b9c79e94)
-11. That's all! Write your exam and click "CLOSE" button to get back to the home/main window to write the next exam.
+12. That's all! Write your exam and click "CLOSE" button to get back to the home/main window to write the next exam.
 
 ## Note
 
