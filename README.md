@@ -27,8 +27,7 @@
 7. You'll get the respective JSON Object, Copy that code.<br><br>
    ![Step 7](https://github.com/PavanTheHacker55/SHOW-MY-ANSWERS/assets/71021764/31cfbbce-ece0-4a10-a4d6-6c0f8a5211b9)
 
-8. <b>Now Download the Tool/Software from [HERE!](https://github.com/pth55/SHOW-MY-ANSWERS/releases/download/v2/show_my_answers.zip) and just Double click that executable to open the actual software.<br>
-      NOTE: PLEASE DISABLE YOUR ANTIVIRUS BEFORE DOWNLOADING THIS FILE</b>
+8. <b>Now Download the Tool/Software from [HERE!](https://github.com/pth55/SHOW-MY-ANSWERS/releases/download/v2/show_my_answers_installer_64.exe) and just Double click that executable to open the actual software.<br></b>
    - or You can also Download it from here: https://github.com/pth55/SHOW-MY-ANSWERS/releases/tag/v2
    ![3](https://github.com/pth55/SHOW-MY-ANSWERS/assets/71021764/85f1e0d4-7804-4810-993e-b2c5c8a6a55c)
 
