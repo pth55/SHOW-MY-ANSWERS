@@ -96,7 +96,7 @@ class ExamAnswerExtractor:
         self.answers_window.title("Answers")
         self.answers_window.configure(bg="black")  # Set background color
         self.answers_window.geometry("600x650")
-        self.answers_window.resizable(False, False)
+        self.answers_window.resizable(True, False) # width, height
         self.answers_window.grab_set()  # Make the window modal
 
         # Frame to hold the contents with scrollbar
